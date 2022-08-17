@@ -28,3 +28,9 @@ img {
 .title{
   margin-bottom: 32px;
 }
+
+.plants{
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
